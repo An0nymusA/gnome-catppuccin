@@ -3327,6 +3327,10 @@ StWidget.focused .app-grid-running-dot {
   border-radius: 20px;
 }
 
+.popup-menu .message * {
+  color: #eff1f5;
+}
+
 .popup-menu .message {
   border-radius: 12px;
 }
@@ -4934,4 +4938,8 @@ StWidget.focused .app-grid-running-dot {
 .overview-components-dark .search-section-separator {
   height: 0 !important;
   background-color: transparent !important;
+}
+
+.notification-banner * {
+  color: #eff1f5 !important;
 }
