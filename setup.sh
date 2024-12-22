@@ -1,3 +1,4 @@
+#!/bin/bash
 stow theme
 
 # Terminal setup

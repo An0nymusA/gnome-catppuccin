@@ -16,6 +16,11 @@ cd gnome-catppuccin &&
 chmod +x setup.sh && ./setup.sh
 ```
 
+## Gnome extensions setup
+```bash
+chmod +x extensions.sh && ./extensions.sh
+```
+
 ## Updating theme
 
 ```bash
